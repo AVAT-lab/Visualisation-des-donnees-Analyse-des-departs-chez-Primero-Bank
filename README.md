@@ -26,9 +26,7 @@ Primero Bank connaît une augmentation des départs clients. En tant que consult
 ## 📁 Livrables
 
 - 📄 [Rapport d’analyse (PDF)](./Vatin_Antoine_1_rapport_analyse_112024.pdf)
-- 📊 [Présentation finale (PowerPoint)](./Vatin_Antoine_2_presentation_112024.pptx)
-
-> _NB : les fichiers sont inclus dans ce dépôt._
+📊 [Télécharger la présentation finale (PowerPoint)](./Vatin_Antoine_2_presentation_112024.pptx)
 
 ---
 
